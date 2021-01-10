@@ -1,4 +1,4 @@
-# Buddy-System-Matching
+# BuddySystemMatching
 
 These are the instructions for how to set up and run the NCSU CUSA Buddy System Matching program. This program was developed using the Gale-Shapley stable marriage algorithm and implemented in Python.
 
