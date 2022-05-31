@@ -1,2 +1,3 @@
 FROM python:latest
-CMD [ "python", "./buddy_system_matching.py" ]
+COPY /buddy_system_matching.py /buddy_system_matching.py
+CMD [ "python", "buddy_system_matching.py" ]
