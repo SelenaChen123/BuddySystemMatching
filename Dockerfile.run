@@ -1,3 +1,4 @@
 FROM python:latest
+RUN echo Building buddy system matching script...
 ADD /buddy_system_matching.py .
 CMD [ "python", "buddy_system_matching.py" ]
